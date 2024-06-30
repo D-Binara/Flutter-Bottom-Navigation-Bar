@@ -12,7 +12,7 @@ Welcome to flutter_bottom_navigation_bar, an open-source Flutter project focused
 - [Contact](#contact)
 
 ## Demo Video
-
+![Alt Text](demo.gif)
 
 
 ## Getting Started
